@@ -128,6 +128,7 @@ gcc -O2 -Wall -Wextra -o ngcc.exe NGCC.c
 | `ngcc.exe` | 已构建好的编译器（可直接使用） |
 | `NGCC.c` | 编译器完整源码（C 语言，单文件） |
 | `README.md` | 本文档 |
+| `example` | 测试程序 |
 
 > `ngcc.exe` 运行时完全不依赖任何外部工具链。
 
