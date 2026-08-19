@@ -136,6 +136,6 @@ gcc -O2 -Wall -Wextra -o ngcc.exe NGCC.c
 
 ## 作者
 
-- GitHub：https://github.com/Jokerdajinbao
-- Bilibili：https://space.bilibili.com/41660208
+- GitHub：https://github.com/Jokerdajinbao/
+- Bilibili：https://www.bilibili.com/video/BV1X98V6BETd/
 - 本项目使用 Deepseek Harness agent 工具辅助开发
